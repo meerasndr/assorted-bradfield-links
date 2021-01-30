@@ -1,7 +1,7 @@
 # assorted-bradfield-links
 
 ### talks
-[Are we really Engineers?](https://www.youtube.com/watch?v=3018ABlET1Y) \n
+[Are we really Engineers?](https://www.youtube.com/watch?v=3018ABlET1Y) \
 [Tim Ewald - Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
 
 ### blogposts
