@@ -2,6 +2,7 @@
 
 ### talks
 [Are we really Engineers?](https://www.youtube.com/watch?v=3018ABlET1Y)
+[Tim Ewald - Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
 
 ### blogposts
 - [What Engineering Can Teach Us](https://www.hillelwayne.com/post/crossover-project/what-we-can-learn/)
