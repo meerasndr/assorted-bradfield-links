@@ -11,7 +11,7 @@
 ### C Resources
 - [Modern C](https://modernc.gforge.inria.fr/)
 - [Build your own Lisp using C](http://www.buildyourownlisp.com/contents)
-- [Beej's Gudie to C](https://beej.us/guide/bgc/html//index.html)
+- [Beej's Guide to C](https://beej.us/guide/bgc/html//index.html)
 
 ### Go Resources
 [Go By Example](https://gobyexample.com/)
