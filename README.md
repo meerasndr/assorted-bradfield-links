@@ -22,3 +22,12 @@
 
 ### Programming Practices
 - [John Carmack on writing long functions](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+
+### Miscallaneous
+#### Understanding Stocks / Options
+- [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/
+- [An Engineer's Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/
+
+#### Random reads
+- [Cold Takes](https://www.cold-takes.com/) - Oz mentioned this in a catch-up call
+- 
