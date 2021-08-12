@@ -38,6 +38,7 @@
 - https://developer.ibm.com/technologies/systems/articles/pa-dalign/
 - https://www.hillelwayne.com/post/linked-lists/
 - https://dougallj.github.io/applecpu/firestorm.html
+- https://www.xorpd.net/pages/xchg_rax/snip_00.html
 
 #### Advanced Programming
 - https://www.youtube.com/watch?v=Tl7mi9QmLns&list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf&index=3
@@ -48,6 +49,7 @@
 - https://eng.uber.com/pprof-go-profiler/
 - https://stackoverflow.com/questions/4725676/how-does-x86-pause-instruction-work-in-spinlock-and-can-it-be-used-in-other-sc
 - https://github.com/golang/proposal/blob/master/design/12416-cgo-pointers.md
+- [The Go Memory Model - The Go Programming Language](https://golang.org/ref/mem)
 
 #### Computer Networks
 - https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z
@@ -59,6 +61,9 @@
 - https://gitlab.com/wireshark/wireshark/-/wikis/CaptureSetup/WLAN
 - https://tls.ulfheim.net/
 - http://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/
+- https://tls.ulfheim.net/
+- https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/
+- https://www.cnet.com/news/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again/
 
 #### Advanced Data Structures
 - https://news.ycombinator.com/item?id=28008541
@@ -82,4 +87,9 @@
 - [Cold Takes](https://www.cold-takes.com/) - Oz mentioned this in a catch-up call
 - https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source
 - http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/
+
+#### Blogs
+- http://augmentingcognition.com/ltm.html
+- https://scattered-thoughts.net/
+- [Linux perf Examples](http://www.brendangregg.com/perf.html)
 -
