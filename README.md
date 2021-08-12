@@ -23,6 +23,26 @@
 ### Programming Practices
 - [John Carmack on writing long functions](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 
+### Bradfield Modules
+#### Systems
+- https://buttondown.email/nelhage/archive/what-does-a-cache-do/
+- https://aosabook.org/en/llvm.html
+- https://www.destroyallsoftware.com/compendium/digital-electronics?share_key=14969fbfdcffadb2
+- https://tonsky.me/blog/emoji/
+- https://www.youtube.com/watch?v=tMEnF5b7hnY
+- https://www.youtube.com/watch?v=r-TLSBdHe1A
+- https://www.reddit.com/r/adventofcode/comments/afwrwu/2018_optimized_solutions_in_c_41_ms_total/
+- https://blog.demofox.org/2017/06/20/simd-gpu-friendly-branchless-binary-search/amp/
+- https://developer.ibm.com/technologies/systems/articles/pa-dalign/
+- https://www.hillelwayne.com/post/linked-lists/
+- https://dougallj.github.io/applecpu/firestorm.html
+
+#### Advanced Programming
+- https://www.youtube.com/watch?v=Tl7mi9QmLns&list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf&index=3
+- https://github.com/golang/go/issues/40724#issuecomment-821758073
+- https://www.hackernoon.com/some-insights-on-maps-in-golang-rm5v3ywh
+- https://www.fatalerrors.org/a/a-comprehensive-analysis-of-golang-s-map-design.html
+
 ### Miscallaneous
 #### Understanding Stocks / Options
 - [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/
@@ -30,4 +50,4 @@
 
 #### Random reads
 - [Cold Takes](https://www.cold-takes.com/) - Oz mentioned this in a catch-up call
-- 
+-
