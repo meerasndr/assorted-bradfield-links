@@ -72,12 +72,15 @@
 - https://www.elastic.co/blog/frame-of-reference-and-roaring-bitmaps
 - https://boyter.org/posts/bloom-filter/
 
+#### Miscellaneous
+- [Perf Extra Class by Oz](https://www.youtube.com/watch?v=uy5cvw6_cjM)
+
 
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
 -
 
-### Miscallaneous
+### Miscellaneous
 #### Understanding Stocks / Options
 - [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
 - [An Engineer's Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
