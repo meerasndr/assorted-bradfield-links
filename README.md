@@ -72,8 +72,9 @@
 - https://www.elastic.co/blog/frame-of-reference-and-roaring-bitmaps
 - https://boyter.org/posts/bloom-filter/
 
-#### Miscellaneous
-- [Perf Extra Class by Oz](https://www.youtube.com/watch?v=uy5cvw6_cjM)
+#### Operating Systems
+- https://hoytech.com/vmtouch/
+- https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
 
 
 ### Papers
@@ -95,4 +96,8 @@
 - http://augmentingcognition.com/ltm.html
 - https://scattered-thoughts.net/
 - [Linux perf Examples](http://www.brendangregg.com/perf.html)
--
+
+
+#### Personalities
+- [Casey Muratori](https://caseymuratori.com)
+- [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow)
