@@ -9,6 +9,7 @@
 ### blogposts
 - [What Engineering Can Teach Us](https://www.hillelwayne.com/post/crossover-project/what-we-can-learn/)
 - [The case against CS Master's degrees](https://ozwrites.com/masters/)
+- [Outage Postmortems](https://github.com/danluu/post-mortems)
 
 ### C Resources
 - [Modern C](https://modernc.gforge.inria.fr/)
@@ -24,6 +25,12 @@
 
 ### Programming Practices
 - [John Carmack on writing long functions](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+- [Reflections on a Decade of Coding](https://scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
+
+### Twitter Threads
+- [List of Outage Postmortems](https://twitter.com/GergelyOrosz/status/1445459824519516165)
+
+
 
 ### Bradfield Modules
 #### Systems
@@ -75,6 +82,7 @@
 #### Operating Systems
 - https://hoytech.com/vmtouch/
 - https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
+- https://x86.lol/generic/2019/07/04/kernel-entry.html
 
 
 ### Papers
