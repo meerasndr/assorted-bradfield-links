@@ -10,6 +10,7 @@
 - [What Engineering Can Teach Us](https://www.hillelwayne.com/post/crossover-project/what-we-can-learn/)
 - [The case against CS Master's degrees](https://ozwrites.com/masters/)
 - [Outage Postmortems](https://github.com/danluu/post-mortems)
+- [Richard Artoul](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
 
 ### C Resources
 - [Modern C](https://modernc.gforge.inria.fr/)
@@ -29,8 +30,10 @@
 
 ### Twitter Threads
 - [List of Outage Postmortems](https://twitter.com/GergelyOrosz/status/1445459824519516165)
+- [Ben Kuhn](https://twitter.com/robot__dreams/status/1439290200652345347)
 
-
+### Performance / Benchmarks
+- [High Throughput FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 
 ### Bradfield Modules
 #### Systems
