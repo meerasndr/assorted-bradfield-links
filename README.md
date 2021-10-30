@@ -49,6 +49,7 @@
 - https://www.hillelwayne.com/post/linked-lists/
 - https://dougallj.github.io/applecpu/firestorm.html
 - https://www.xorpd.net/pages/xchg_rax/snip_00.html
+- http://www.jagregory.com/abrash-zen-of-asm/
 
 #### Advanced Programming
 - https://www.youtube.com/watch?v=Tl7mi9QmLns&list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf&index=3
@@ -112,3 +113,5 @@
 #### Personalities
 - [Casey Muratori](https://caseymuratori.com)
 - [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow)
+- John Carmack
+- Michael Abrash
