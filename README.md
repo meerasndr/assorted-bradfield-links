@@ -88,6 +88,12 @@
 - https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
 - https://x86.lol/generic/2019/07/04/kernel-entry.html
 
+#### Databases
+- [Internals of Postgres](https://www.interdb.jp/pg/)
+
+#### Distributed Systems
+- [Protobufs are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
+- [SIMDJSON](https://github.com/simdjson/simdjson)
 
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
