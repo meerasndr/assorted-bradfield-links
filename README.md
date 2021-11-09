@@ -16,6 +16,8 @@
 - [Modern C](https://modernc.gforge.inria.fr/)
 - [Build your own Lisp using C](http://www.buildyourownlisp.com/contents)
 - [Beej's Guide to C](https://beej.us/guide/bgc/html//index.html)
+- [The C Pre-processor](https://gcc.gnu.org/onlinedocs/gcc-11.2.0/cpp/)
+- [Where Does GCC Look to Find its Header Files?](http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art026)
 
 ### Go Resources
 [Go By Example](https://gobyexample.com/)
