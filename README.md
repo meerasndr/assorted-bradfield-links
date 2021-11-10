@@ -11,6 +11,7 @@
 - [The case against CS Master's degrees](https://ozwrites.com/masters/)
 - [Outage Postmortems](https://github.com/danluu/post-mortems)
 - [Richard Artoul](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
+- [Gentle Intro to GPU inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 
 ### C Resources
 - [Modern C](https://modernc.gforge.inria.fr/)
@@ -92,10 +93,15 @@
 
 #### Databases
 - [Internals of Postgres](https://www.interdb.jp/pg/)
+- [Postgres 14 - It is the little things](https://blog.crunchydata.com/blog/postgres-14-its-the-little-things)
+-
 
 #### Distributed Systems
 - [Protobufs are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
 - [SIMDJSON](https://github.com/simdjson/simdjson)
+- [Jepsen](https://jepsen.io/)
+- [Cap'n Proto](https://capnproto.org/)
+- [Notion - Partitioning case study](https://www.notion.so/blog/sharding-postgres-at-notion)
 
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
@@ -116,6 +122,8 @@
 - http://augmentingcognition.com/ltm.html
 - https://scattered-thoughts.net/
 - [Linux perf Examples](http://www.brendangregg.com/perf.html)
+- Haki Benita
+-
 
 
 #### Personalities
