@@ -3,7 +3,7 @@
 ### talks
 - [Are we really Engineers?](https://www.youtube.com/watch?v=3018ABlET1Y)
 - [Tim Ewald - Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
-- https://www.youtube.com/watch?v=Mg-zZXeWyJU
+- [David Holz](https://www.youtube.com/watch?v=Mg-zZXeWyJU)
 
 
 ### blogposts
@@ -125,6 +125,12 @@
 - Haki Benita
 -
 
+#### Interview Prep
+- AlgoExpert
+- https://sre.google/workbook/non-abstract-design/
+- http://highscalability.com/blog/category/example
+- https://atcoder.jp/contests/dp
+-
 
 #### Personalities
 - [Casey Muratori](https://caseymuratori.com)
