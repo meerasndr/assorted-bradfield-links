@@ -13,6 +13,11 @@
 - [Richard Artoul](https://medium.com/swlh/from-coding-bootcamp-graduate-to-building-distributed-databases-29acbb723d8)
 - [Gentle Intro to GPU inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 
+### Guest talks @ Bradfield
+- Anthony Marcar
+  - https://www.youtube.com/watch?v=av9Xi6CNqq4
+  - https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=IN%2Fmarcar%0D%0A&d=PTXT
+
 ### C Resources
 - [Modern C](https://modernc.gforge.inria.fr/)
 - [Build your own Lisp using C](http://www.buildyourownlisp.com/contents)
