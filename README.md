@@ -26,7 +26,8 @@
 - [Where Does GCC Look to Find its Header Files?](http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art026)
 
 ### Go Resources
-[Go By Example](https://gobyexample.com/)
+- [Go By Example](https://gobyexample.com/)
+- [Effective Go](http://www.mit.edu/afs.new/sipb/project/golang/doc/effective_go.html)
 
 ### Linux Resources
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
@@ -107,6 +108,8 @@
 - [Jepsen](https://jepsen.io/)
 - [Cap'n Proto](https://capnproto.org/)
 - [Notion - Partitioning case study](https://www.notion.so/blog/sharding-postgres-at-notion)
+- https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html
+- https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
@@ -122,6 +125,8 @@
 - [Cold Takes](https://www.cold-takes.com/) - Oz mentioned this in a catch-up call
 - https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source
 - http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/
+- [Bank Python](https://calpaterson.com/bank-python.html)
+-
 
 #### Blogs
 - http://augmentingcognition.com/ltm.html
@@ -142,3 +147,7 @@
 - [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow)
 - John Carmack
 - Michael Abrash
+
+#### Software
+- [OBS broadcaster](https://obsproject.com/)
+- [Orca](https://hundredrabbits.itch.io/)
