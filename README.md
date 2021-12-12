@@ -59,6 +59,7 @@
 - https://dougallj.github.io/applecpu/firestorm.html
 - https://www.xorpd.net/pages/xchg_rax/snip_00.html
 - http://www.jagregory.com/abrash-zen-of-asm/
+- [Little Man Computer](https://www.peterhigginson.co.uk/LMC/)
 
 #### Advanced Programming
 - https://www.youtube.com/watch?v=Tl7mi9QmLns&list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf&index=3
@@ -84,6 +85,7 @@
 - https://tls.ulfheim.net/
 - https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/
 - https://www.cnet.com/news/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again/
+- [Cryptopals Walkthough](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
 
 #### Advanced Data Structures
 - https://news.ycombinator.com/item?id=28008541
@@ -91,6 +93,7 @@
 - https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
 - https://www.elastic.co/blog/frame-of-reference-and-roaring-bitmaps
 - https://boyter.org/posts/bloom-filter/
+- [DGraph Roaring Bitmaps](https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/)
 
 #### Operating Systems
 - https://hoytech.com/vmtouch/
