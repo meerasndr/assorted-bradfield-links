@@ -86,6 +86,7 @@
 - https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/
 - https://www.cnet.com/news/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again/
 - [Cryptopals Walkthough](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
+- [Graduate Course in Cryptography - PDF](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
 
 #### Advanced Data Structures
 - https://news.ycombinator.com/item?id=28008541
