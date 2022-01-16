@@ -87,6 +87,7 @@
 - https://www.cnet.com/news/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again/
 - [Cryptopals Walkthough](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
 - [Graduate Course in Cryptography - PDF](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
+- [Cryptography Notes - PDF](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
 
 #### Advanced Data Structures
 - https://news.ycombinator.com/item?id=28008541
@@ -124,6 +125,7 @@
 - [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
 - [An Engineer's Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
 - https://github.com/holman/extended-exercise-windows
+- https://twitter.com/susanfsu/status/1481332788859064322
 
 #### Random reads
 - [Cold Takes](https://www.cold-takes.com/) - Oz mentioned this in a catch-up call
@@ -144,7 +146,12 @@
 - https://sre.google/workbook/non-abstract-design/
 - http://highscalability.com/blog/category/example
 - https://atcoder.jp/contests/dp
--
+
+#### Maths
+- Category Theory videos by Bartosz Milewski
+- Book: Coding the Matrix
+- Book: How to Prove It?
+
 
 #### Personalities
 - [Casey Muratori](https://caseymuratori.com)
