@@ -132,7 +132,8 @@
 - https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source
 - http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/
 - [Bank Python](https://calpaterson.com/bank-python.html)
--
+- [Brain specificity](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower)
+- [The Lean MVP Flowchart](https://medium.com/bloated-mvp/the-lean-mvp-flowchart-add48d7bcbae)
 
 #### Blogs
 - http://augmentingcognition.com/ltm.html
