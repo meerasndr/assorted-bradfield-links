@@ -122,6 +122,7 @@
 
 ### Miscellaneous
 #### Understanding Stocks / Options
+- [The Manual](https://manual.withcompound.com/)
 - [Equity 101 for Software Engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
 - [An Engineer's Guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
 - https://github.com/holman/extended-exercise-windows
