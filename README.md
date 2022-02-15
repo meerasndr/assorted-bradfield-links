@@ -116,6 +116,10 @@
 - https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html
 - https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 
+#### System Design
+- [Series - Intro to Infra and Application Monitoring](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
+- 
+
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
 -
