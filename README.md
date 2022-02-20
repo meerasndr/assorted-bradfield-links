@@ -120,7 +120,7 @@
 - https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 
 #### System Design
-- [Series - Intro to Infra and Application Monitoring](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
+- [DigitalOCean Series - Intro to Infra and Application Monitoring](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
 -
 
 ### Papers
