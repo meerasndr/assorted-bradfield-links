@@ -40,9 +40,11 @@
 ### Twitter Threads
 - [List of Outage Postmortems](https://twitter.com/GergelyOrosz/status/1445459824519516165)
 - [Ben Kuhn](https://twitter.com/robot__dreams/status/1439290200652345347)
+- [Jepsen analysis DLT vs Database transactions](https://twitter.com/jepsen_io/status/1494147200334667784)
 
 ### Performance / Benchmarks
 - [High Throughput FizzBuzz](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc)
 
 ### Bradfield Modules
 #### Systems
@@ -88,6 +90,7 @@
 - [Cryptopals Walkthough](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/)
 - [Graduate Course in Cryptography - PDF](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
 - [Cryptography Notes - PDF](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
+- [Kurose-Ross Lecture Videos](https://www.youtube.com/playlist?list=PL1u6QhVvC9FXk9Njc0gEUrmqKKpVzcubX)
 
 #### Advanced Data Structures
 - https://news.ycombinator.com/item?id=28008541
@@ -118,7 +121,7 @@
 
 #### System Design
 - [Series - Intro to Infra and Application Monitoring](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
-- 
+-
 
 ### Papers
 - https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
