@@ -62,6 +62,7 @@
 - https://www.xorpd.net/pages/xchg_rax/snip_00.html
 - http://www.jagregory.com/abrash-zen-of-asm/
 - [Little Man Computer](https://www.peterhigginson.co.uk/LMC/)
+- [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/index.html)
 
 #### Advanced Programming
 - https://www.youtube.com/watch?v=Tl7mi9QmLns&list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf&index=3
@@ -91,8 +92,10 @@
 - [Graduate Course in Cryptography - PDF](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf)
 - [Cryptography Notes - PDF](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
 - [Kurose-Ross Lecture Videos](https://www.youtube.com/playlist?list=PL1u6QhVvC9FXk9Njc0gEUrmqKKpVzcubX)
+- [SHA256 algorithm explained](https://sha256algorithm.com/)
 
 #### Advanced Data Structures
+- [Red Blob Games](https://www.redblobgames.com/)
 - https://news.ycombinator.com/item?id=28008541
 - https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/
 - https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
